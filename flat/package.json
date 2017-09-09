@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "union": "0.3.0",
-    "flatiron": "0.2.2"
+    "union": "*",
+    "flatiron": "*"
   },
   "devDependencies": {
     "api-easy": "0.3.2",
